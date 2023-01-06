@@ -1,0 +1,3 @@
+# Foodi - Fluid UI and Wix.com Project :iphone:
+
+In my Fall 2021 semester, I completed a project in my Business Technology & Innovation (BTE210) course in which I used Fluid UI to create a mobile prototype for an app known as Foodi, which helps users find local restaurants that fit their preferences or are trending in their area. I then used Wix.com to design a website that showcases Foodi's features. Click [here](https://www.fluidui.com/editor/live/link/NogjfCSHCSiIy5dCM1S0PeT1LT0rytltazJJddJemmDBcEhHsnmNe3g3MabgIxu0) to view the Fluid UI page, [here](https://icg429.wixsite.com/foodi) to view the Wix.com site, and [here](https://github.com/icg42/foodi/blob/main/Foodi%20Slide%20Deck.pdf) to view the slide deck.
